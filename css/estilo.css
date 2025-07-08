@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{ text-align: center;}
+img{ width: 400;
+     height: 200;}
+section{
+    text-align: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    border: 5px black solid;
+    padding-right: 5px;
+    margin-top: 2px;
+
+    
+}
+li{
+    text-align: center;
+    align-items: center;1
+}
+p:hover{
+    color:brown
+}
