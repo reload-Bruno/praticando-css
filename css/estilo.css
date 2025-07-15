@@ -1,14 +1,19 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
     background-color: brown;
+    align-items: center;
+    display: flex;
+;
+    flex-direction: column
 }
 
 p{
     font-family: Arial, Helvetica, sans-serif;
 }
 h2{ text-align: center;}
-img{ width: 480;
-     height: 800;}
+img{ 
+     height: 225px;}
+    
 section{
     text-align: center;
     align-items: center;
@@ -16,6 +21,7 @@ section{
     border: 5px black solid;
     padding-right: 5px;
     margin-top: 2px;
+    width: 600px;
 
     
 }
@@ -30,11 +36,29 @@ p:hover{
     }
     #tit{font-family: 'Times New Roman', Times, serif;}
 
-    #menu{
+    #menu{color: white;
         text-align: center;
         align-items: center;
-        background-color: blanchedalmond;
+        background-color: rgb(15, 15, 15);
         border: 5px black solid;
         padding-right: 5px;
         margin-top: 2px;
     }
+    #piloto{ font-family: monospace;
+        color: rgb(216, 61, 61);
+        text-shadow: 2px 2px 5px black;
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    #carro{ font-family: monospace;
+        
+        
+    }
+    .destaque{ font-weight: bold;
+        color: red;
+        text-shadow: 1px 1px 2px black;
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 0px;
+    }''
