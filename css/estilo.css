@@ -7,8 +7,8 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 h2{ text-align: center;}
-img{ width: 400;
-     height: 200;}
+img{ width: 480;
+     height: 800;}
 section{
     text-align: center;
     align-items: center;
@@ -21,8 +21,20 @@ section{
 }
 li{
     text-align: center;
-    align-items: center;1
+    align-items: center;
 }
 p:hover{
     color:brown
 }
+#foo{ font-family: 'Times New Roman', Times, serif;
+    }
+    #tit{font-family: 'Times New Roman', Times, serif;}
+
+    #menu{
+        text-align: center;
+        align-items: center;
+        background-color: blanchedalmond;
+        border: 5px black solid;
+        padding-right: 5px;
+        margin-top: 2px;
+    }
